@@ -1,0 +1,39 @@
+/* hero section */
+header{
+    
+    background-image: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url(/images/Banner\ Image.png);
+    height: 600px ;
+    background-repeat: no-repeat;
+    margin: 50px 140px 120px 140px;
+    border-radius: 16px;
+
+    
+}
+.header-text{
+    text-align: center;
+    padding: 177px 344px;
+}
+.Merriweather {
+    font-family: "Merriweather", serif;
+    font-style: normal;
+
+  }
+
+.hny{
+
+   font-size: 32px;
+   font-weight: 400;
+   color: white;
+   margin-bottom: 0px;
+   
+
+
+}
+.party{
+    margin-top:16px;
+    font-weight: 900;
+    font-size: 62px;
+    color: white;
+
+
+}
