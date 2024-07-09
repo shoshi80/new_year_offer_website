@@ -1,39 +1,146 @@
 /* hero section */
-header{
-    
-    background-image: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url(/images/Banner\ Image.png);
-    height: 600px ;
+header.home {
+
+    background-image: linear-gradient(180.00deg, rgb(7, 2, 17), rgba(7, 2, 17, 0) 100%), url(/images/Banner\ Image.png);
+    height: 600px;
+    width: 1320px;
     background-repeat: no-repeat;
     margin: 50px 140px 120px 140px;
     border-radius: 16px;
 
-    
+
 }
-.header-text{
+
+.header-text {
     text-align: center;
     padding: 177px 344px;
 }
+
 .Merriweather {
     font-family: "Merriweather", serif;
     font-style: normal;
 
-  }
+}
 
-.hny{
+.hny {
 
-   font-size: 32px;
-   font-weight: 400;
-   color: white;
-   margin-bottom: 0px;
-   
+    font-size: 32px;
+    font-weight: 400;
+    color: white;
+    margin-bottom: 0px;
+
 
 
 }
-.party{
-    margin-top:16px;
+
+.party {
+    margin-top: 16px;
     font-weight: 900;
     font-size: 62px;
     color: white;
 
 
 }
+
+.sec1,
+.sec1-text {
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+   
+
+}
+
+.sec1-head-text {
+    color: rgb(255, 0, 0);
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 107px;
+    margin-bottom: 39px;
+    margin-top: 120px;
+    padding: 0 209px;
+
+}
+
+.holiday-deal-text {
+    color: rgb(255, 0, 0);
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    margin-bottom: 16px;
+    padding: 0 202px;
+
+}
+
+.category-text{
+
+color: rgb(7, 2, 17);
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0%;
+margin-top: 16px;
+padding: 0 500px;
+}
+
+.sec2 {
+    background-image: linear-gradient(90.00deg, rgb(7, 2, 17), rgba(7, 2, 17, 0) 100%), url(/images/Vectorrr.png);
+    background-size: contain;
+    
+    
+    background-repeat: no-repeat;
+    width: 1320;
+    height: 560px; 
+    margin: 120px 120px 120px 140px;
+    
+}
+
+.sec2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.year24{
+   
+
+width: 349.16px;
+height: 464.65px;
+margin: 48px 200px 108px 54px;
+
+
+}
+.welcome-text{
+
+    color: rgb(255, 255, 255);
+
+font-size: 64px;
+font-weight: 900;
+line-height: 88px;
+margin-top: 126px;
+margin-left: 126px;
+width: 642px;
+
+
+}
+
+.dolor-text{
+    color: rgba(255, 255, 255, 0.8);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+margin: 24px 0 48px 126px;
+}
+.join{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+
+text-transform: uppercase;
+margin: 0 0 262px 158px;
+}
+
